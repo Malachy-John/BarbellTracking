@@ -1,6 +1,8 @@
 # BarbellTrackingProgram
- Using custom algorithms, this set of Python scripts works together to track a user's Velocity to Load Profile
+ Using custom algorithms, Linear Regression models and charts, this set of Python scripts works together to track a user's Velocity to Load Profile
 
+## Please Note
+ Please start all scripts from the main directory, else errors will occur.
 
 ### Script Order
 1. **'resize_videos.py'**
